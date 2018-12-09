@@ -8,7 +8,7 @@ Contains the libraries needed for the project and the necessary code to import e
 
 Contains the necessary transformations and data cleaning of the tables imported in 1. In this step a division by gender in the data was also done
 
-##3. Correlations
+## 3. Correlations
 
 A brief analysis of how the variables correlate amongst themselves, by gender.
 
