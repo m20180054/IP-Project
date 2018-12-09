@@ -1,4 +1,9 @@
-# IP-Project
+# Adolescents Alcohol Consumption
+
+## Group17_report.pdf
+
+The full report of the Data Science project made for the course Introduction to Programming at NOVA IMS, 2018/2019.
+Inside, the main steps of this work are explained.
 
 ## 1. Import
 
